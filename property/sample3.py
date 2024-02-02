@@ -11,3 +11,5 @@ class duck:
     def name(self,input_name):
         print('inside the getter',input_name)
         self.__name = input_name
+
+        
